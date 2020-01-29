@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0alpha (9dee831, 2019-01-15)"
+   sodipodi:docname="distribute.svgz"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg3869">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg3869"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="15.434736"
+     inkscape:cx="22.234139"
+     inkscape:zoom="15.636702"
+     showgrid="false"
+     id="namedview10"
+     inkscape:window-height="1565"
+     inkscape:window-width="1871"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     inkscape:document-rotation="0"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <style
+     id="current-color-scheme"
+     type="text/css">
+        .ColorScheme-Text {
+            color:#232629;
+        }
+    </style>
+  <g
+     transform="translate(-326,-534.3622)"
+     id="distribute-horizontal-x">
+    <path
+       fill="none"
+       d="m326 534.36218h22v22h-22z"
+       id="rect4178" />
+    <path
+       style="fill:#53b7ec;fill-opacity:1"
+       fill="#53b7ec"
+       class="ColorScheme-Text"
+       d="m329 541.3622v8h5v-8zm11 0v8h5v-8zm-10 1h3v6h-3zm11 0h3v6h-3zm-6 1v4h1v-1h2v1h1v-4h-1v1h-2v-1z"
+       id="rect4109" />
+  </g>
+  <g
+     transform="matrix(.72727273 0 0 .72727273 -253.09091 -382.62706)"
+     id="16-16-distribute-horizontal-x">
+    <path
+       fill="none"
+       d="m326 534.36218h22v22h-22z"
+       id="rect4178-6" />
+    <path
+       style="fill:#53b7ec;fill-opacity:1"
+       fill="#53b7ec"
+       class="ColorScheme-Text"
+       d="m327.375 539.86221v11h5.5v-11zm13.75 0v11h5.5v-11zm-12.375 1.375h2.75v8.25h-2.75zm13.75 0h2.75v8.25h-2.75zm-8.25 1.375v5.5h1.375v-1.375h2.75v1.375h1.375v-5.5h-1.375v1.375h-2.75v-1.375z"
+       id="path4" />
+  </g>
+</svg>
