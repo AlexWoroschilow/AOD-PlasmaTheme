@@ -60,7 +60,7 @@
        cy="12"
        r="8"
        class="ColorScheme-ButtonFocus"
-       fill="currentColor" />
+       fill="#53b7ec" />
   </g>
   <g
      id="notification-inactive"
@@ -102,7 +102,7 @@
        style="fill:#53b7ec;fill-opacity:1"
        d="m6.3457031 3.345703a7.9999995 7.9999995 0 0 0 -2.3457031 5.654297h1a7 7 0 0 1 2.0527344-4.947266zm11.3085939 0-.707031.707031a7 7 0 0 1 2.052734 4.947266h1a7.9999995 7.9999995 0 0 0 -2.345703-5.654297zm-1.416016 1.416016-.708984.708984a5 5 0 0 1 1.470703 3.529297h1a6 6 0 0 0 -1.761719-4.238281zm-8.472656.003906a6 6 0 0 0 -1.765625 4.234375h1a5 5 0 0 1 1.4667969-3.533203z"
        class="ColorScheme-Text"
-       fill="currentColor"
+       fill="#53b7ec"
        fill-rule="evenodd"
        id="path16" />
     <path
